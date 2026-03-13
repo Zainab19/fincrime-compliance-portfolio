@@ -1,8 +1,7 @@
 # Financial Crime Compliance Portfolio
-A self-made Excel simulation covering core entry-level 
-financial crime compliance workflows.
-Built to demonstrate practical understanding of AML, KYC, 
-and Sanctions concepts that come under financial crime compliance.
+The portfolio was built in Excel as a practical learning exercise
+to better understand how financial institutions identify, assess,
+and investigate potential financial crime risks.
 
 ## What's Inside
 ### Sheet 1 — KYC Customer Risk Scoring Model
@@ -35,10 +34,9 @@ and Sanctions concepts that come under financial crime compliance.
 
 ## Tools Used
 - Microsoft Excel (formulas, conditional logic, structured data)
+- AI tools (for research assistance and concept exploration)
 
 ## About
-I am actively learning about financial crime compliance, 
-currently developing skills in AML, KYC, and sanctions screening. 
-This portfolio is a hands-on attempt to deepen my understanding of
+I am developing skills in AML, KYC, sanctions screening, etc.
+This portfolio was a hands-on attempt to deepen my understanding of
 the concepts learned.
-analyst roles.
