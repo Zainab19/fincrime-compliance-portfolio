@@ -42,5 +42,3 @@ currently developing skills in AML, KYC, and sanctions screening.
 This portfolio is a hands-on attempt to deepen my understanding of
 the concepts learned.
 analyst roles.
-
-Connect with me on LinkedIn: [Your LinkedIn URL here]
